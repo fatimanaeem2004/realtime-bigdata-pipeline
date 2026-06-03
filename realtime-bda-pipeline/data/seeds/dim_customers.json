@@ -1,0 +1,6 @@
+[
+  {"customer_id":"U1","name":"Ali Khan","email":"ali@example.com","gender":"Male","age_group":"25-34","segment":"returning","signup_date":"2025-10-01","location_id":"L1"},
+  {"customer_id":"U2","name":"Fatima Noor","email":"fatima@example.com","gender":"Female","age_group":"18-24","segment":"new","signup_date":"2025-11-10","location_id":"L2"},
+  {"customer_id":"U3","name":"Hassan Raza","email":"hassan@example.com","gender":"Male","age_group":"35-44","segment":"vip","signup_date":"2024-12-20","location_id":"L3"},
+  {"customer_id":"U4","name":"Sara Ahmed","email":"sara@example.com","gender":"Female","age_group":"25-34","segment":"returning","signup_date":"2025-08-05","location_id":"L4"}
+]

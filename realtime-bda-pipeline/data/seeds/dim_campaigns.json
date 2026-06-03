@@ -1,0 +1,5 @@
+[
+  {"campaign_id":"C1","channel":"email","offer_type":"discount","discount_pct_default":10,"validity_minutes":60},
+  {"campaign_id":"C2","channel":"sms","offer_type":"discount","discount_pct_default":15,"validity_minutes":30},
+  {"campaign_id":"C3","channel":"push","offer_type":"free_shipping","discount_pct_default":null,"validity_minutes":45}
+]

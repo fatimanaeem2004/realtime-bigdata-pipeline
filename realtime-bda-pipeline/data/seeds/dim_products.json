@@ -1,0 +1,6 @@
+[
+  {"product_id":"P1","product_name":"Wireless Earbuds","category":"Electronics","brand":"SoundPro","base_price":4999,"stock_status":true},
+  {"product_id":"P2","product_name":"Running Shoes","category":"Fashion","brand":"StrideX","base_price":7999,"stock_status":true},
+  {"product_id":"P3","product_name":"Coffee Maker","category":"Home","brand":"BrewLab","base_price":12999,"stock_status":true},
+  {"product_id":"P4","product_name":"Backpack","category":"Accessories","brand":"UrbanCarry","base_price":3499,"stock_status":true}
+]

@@ -1,0 +1,6 @@
+[
+  {"location_id": "L1", "country": "Pakistan", "city": "Karachi", "region": "Sindh"},
+  {"location_id": "L2", "country": "Pakistan", "city": "Lahore", "region": "Punjab"},
+  {"location_id": "L3", "country": "UAE", "city": "Dubai", "region": "Dubai"},
+  {"location_id": "L4", "country": "USA", "city": "New York", "region": "NY"}
+]

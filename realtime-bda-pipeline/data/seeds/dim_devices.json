@@ -1,0 +1,6 @@
+[
+  {"device_id":"D1","device_type":"mobile","operating_system":"Android","browser":"Chrome"},
+  {"device_id":"D2","device_type":"mobile","operating_system":"iOS","browser":"Safari"},
+  {"device_id":"D3","device_type":"desktop","operating_system":"Windows","browser":"Chrome"},
+  {"device_id":"D4","device_type":"desktop","operating_system":"Linux","browser":"Firefox"}
+]
